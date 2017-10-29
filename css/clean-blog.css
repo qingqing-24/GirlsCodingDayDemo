@@ -188,7 +188,8 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 60px;
+    font-size: 60
+px;
   }
 }
 
@@ -213,7 +214,7 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: rgb(60, 57, 68);
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
